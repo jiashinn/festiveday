@@ -25,7 +25,7 @@ const StyledDiv = styled.div`
   .rank {
     margin: 0 0.2rem;
     position: relative;
-    min-height: 10vh;
+    min-height: 5vh;
   }
 
   .rank-chart {
@@ -37,7 +37,7 @@ const StyledDiv = styled.div`
       display: flex;
       align-items: center;
       background: white;
-      height: 4rem;
+      height: 5rem;
       border-radius: 4rem;
       margin-bottom: 2rem;
       background: #fff;
